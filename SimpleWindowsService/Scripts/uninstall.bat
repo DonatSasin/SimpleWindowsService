@@ -1,0 +1,1 @@
+SimpleWindowsService.exe uninstall
